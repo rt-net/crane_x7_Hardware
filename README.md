@@ -19,4 +19,4 @@ CRANEシリーズの7軸アームロボット。ハードウェア情報。
 
 Authors & License
 
-CRANE-X7は、アールティで開発した研究用アームロボットです。このリポジトリのcad_dataは、ShareAlike 3.0（CC BY-NC-SA 3.0）ライセンス（詳細はこちらhttps://creativecommons.org/licenses/by-sa/3.0/deed.jaを参照）で公開されています。
+CRANE-X7は、アールティで開発した研究用アームロボットです。このリポジトリのcad_dataは、ShareAlike 3.0（CC BY-NC-SA 3.0）ライセンスで公開されています。
