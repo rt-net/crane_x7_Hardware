@@ -3,7 +3,7 @@ CRANEシリーズの7軸アームロボット。ハードウェア情報。
 
 公式サイトは[こちら( https://www.rt-net.jp/products/crane-x7 )](https://www.rt-net.jp/products/crane-x7)です。
 
-`cad_data`ディレクトリにはCRANE-X7のCADデータが入っています。
+`cad_data`ディレクトリにはCRANE-X7のCADデータ(step)が入っています。
 
 `3Dprint_data`ディレクトリにはCRANE-X7のAfinia　H800+を使った3Dプリント用印刷データが入っています。
 
