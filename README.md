@@ -9,6 +9,9 @@ CRANEシリーズの7軸アームロボット。ハードウェア情報。
 `3Dprint_data`ディレクトリにはAfinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
 フレーム破損時はこちらで印刷して交換します。
 
+`Drawing`ディレクトリにはアルミプレートのPDF図面とDXF図面が入っています。
+フレーム破損時はこちらで切削して交換します。
+
 `others`ディレクトリにはCRANE-X7の部品表組み立てマニュアル等のリンク集が入っています。
 
 サンプルプログラムは[rt-net/crane_x7](https://github.com/rt-net/crane_x7)のリポジトリで管理されています。
@@ -35,6 +38,8 @@ Click here ( https://www.rt-net.jp/products/crane-x7 ) to visit the official web
 You can make modifications using this data.
 
 “3Dprint_data” directory contains model data for 3D rendering using Afinia H800+ and details on print settings. You can replace a damaged frame by 3D-printing a new frame based on the data contained herein. 
+
+“Drawing” directory contains aluminium plate data PDF drawing & DXF drawing. You can replace a damaged frame by NC Cutting new plate based on the data contained herein.
 
 “others” directory contains links to CRANE-X7’s components and parts assembly manuals.
 
