@@ -39,7 +39,7 @@ You can make modifications using this data.
 
 “3Dprint_data” directory contains model data for 3D rendering using Afinia H800+ and details on print settings. You can replace a damaged frame by 3D-printing a new frame based on the data contained herein. 
 
-“Drawing” directory contains aluminium plate data PDF drawing & DXF drawing. You can replace a damaged frame by NC Cutting new plate based on the data contained herein.
+“Drawing” directory contains aluminium plate data PDF drawing & DXF drawing. You can replace a damaged plate by NC Cutting new plate based on the data contained herein.
 
 “others” directory contains links to CRANE-X7’s components and parts assembly manuals.
 
