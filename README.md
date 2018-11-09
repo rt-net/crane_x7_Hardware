@@ -44,7 +44,7 @@ You can make modifications using this data.
 
 “others” directory contains links to CRANE-X7’s components and parts assembly manuals.
 
-Sample programs are managed in this repository: rt-net/crane_x7
+Sample programs are managed in this repository: rt-net/crane_x7.
 
 
 Proprietary Rights
