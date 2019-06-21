@@ -12,7 +12,7 @@ CRANEシリーズの7軸アームロボット　ハードウェア情報
 `Drawing`ディレクトリにはアルミプレートのPDF図面とDXF図面が入っています。
 フレーム破損時はこちらで切削して交換します。
 
-`others`ディレクトリにはCRANE-X7の部品表組み立てマニュアル等のリンク集が入っています。
+`links.md`ディレクトリにはCRANE-X7のリンク情報や部品表、組み立てマニュアル等のリンク集が入っています。
 
 サンプルプログラムは[rt-net/crane_x7](https://github.com/rt-net/crane_x7)のリポジトリで管理されています。
 
@@ -42,7 +42,7 @@ You can make modifications using this data.
 
 “Drawing” directory contains aluminium plate drawing data in PDF and DXF. You can replace a damaged plate by cutting it based on the data contained herein.
 
-“others” directory contains links to CRANE-X7’s components and parts assembly manuals.
+“links.md” contains links to CRANE-X7’s components and parts assembly manuals.
 
 Sample programs are managed in this repository: rt-net/crane_x7.
 
