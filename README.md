@@ -1,21 +1,22 @@
 # crane_x7_Hardware
-CRANEシリーズの7軸アームロボット　ハードウェア情報
+[CRANE-X7](https://rt-net.jp/products/crane-x7/) のハードウェア資料集です
 
-公式サイトはこちら[( https://www.rt-net.jp/products/crane-x7 )](https://www.rt-net.jp/products/crane-x7)です。
+![](https://rt-net.github.io/images/crane-x7-cad/CRANE-X7-v1.2.stp.png)
 
-`cad_data`ディレクトリにはCRANE-X7のCADデータ(step)が入っています。
-改造したい時には、こちらを使ってください。
+## フォルダ構成
 
-`3Dprint_data`ディレクトリにはAfinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
-フレーム破損時はこちらで印刷して交換します。
+- `3d_cad_data` : CRANE-X7のCADデータ(step)が入っています。
+- `3d_print_parts` : Afinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
+- `Drawing` : アルミプレートのPDF図面とDXF図面が入っています。
 
-`Drawing`ディレクトリにはアルミプレートのPDF図面とDXF図面が入っています。
-フレーム破損時はこちらで切削して交換します。
+## その他リンク集
 
-`others`ディレクトリにはCRANE-X7の部品表組み立てマニュアル等のリンク集が入っています。
-
-サンプルプログラムは[rt-net/crane_x7](https://github.com/rt-net/crane_x7)のリポジトリで管理されています。
-
+- [CRANE-X7 Getting Start Guide](https://docs.google.com/document/d/1ZVM8DkEtygEqVriiUKvn6mUj0swVW3mLRr4APcF0RwU/edit?usp=sharing)
+- [CRANE-X7 リンク情報リファレンス](https://docs.google.com/spreadsheets/d/1I268mnab4m-f6us0Au3AGd64-2iGkSwxaLrDplSjHY8/edit#gid=851604478)
+- [Afinia印刷設定リスト](https://docs.google.com/spreadsheets/d/1EGJFGyENNs8dTUQuPBuiwlS8NjcewwcOpi81-vP1bUY/edit?usp=sharing)
+- [組立マニュアル](https://sites.google.com/view/crane-x7-assembly-manual/)
+- [部品表](https://docs.google.com/spreadsheets/d/1aDFqHm1ITyZzfuScvNEFtuxv-zPM3NvJoxa1wEGHN7g/edit?usp=sharing)
+- [組立工具リスト](https://docs.google.com/spreadsheets/d/1vNaybK8c32hEwv1Moxhm_TXiwBZLILNTeV__plZuWW8/edit?usp=sharing)
 
 知的財産権について
 
