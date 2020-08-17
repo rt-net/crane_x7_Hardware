@@ -18,7 +18,7 @@
 - [部品表](https://docs.google.com/spreadsheets/d/1aDFqHm1ITyZzfuScvNEFtuxv-zPM3NvJoxa1wEGHN7g/edit?usp=sharing)
 - [組立工具リスト](https://docs.google.com/spreadsheets/d/1vNaybK8c32hEwv1Moxhm_TXiwBZLILNTeV__plZuWW8/edit?usp=sharing)
 
-知的財産権について
+## 知的財産権について
 
 CRANE-X7は、アールティが開発した研究用アームロボットです。
 このリポジトリの情報に関するライセンスについては、LICENSEファイルをご参照ください。
@@ -29,24 +29,6 @@ CRANE-X7は、アールティが開発した研究用アームロボットです
 
 サーボモータのXM540やXM430に関するCADモデルの使用については、ROBOTIS社より使用許諾を受けています。 
 CRANE-X7に使用されているROBOTIS社の部品類にかかる著作権、商標権、その他の知的財産権は、ROBOTIS社に帰属します。
-
-
-# crane_x7_Hardware
-CRANE Series Arm Robots – Hardware Information.
-
-Click here ( https://www.rt-net.jp/products/crane-x7 ) to visit the official website.
-
- “cad_data” directory contains CAD data relevant to CRANE-X7. 
-You can make modifications using this data.
-
-“3Dprint_data” directory contains model data for 3D rendering using Afinia H800+ and details on print settings. You can replace a damaged frame by 3D-printing a new frame based on the data contained herein. 
-
-“Drawing” directory contains aluminium plate drawing data in PDF and DXF. You can replace a damaged plate by cutting it based on the data contained herein.
-
-“others” directory contains links to CRANE-X7’s components and parts assembly manuals.
-
-Sample programs are managed in this repository: rt-net/crane_x7.
-
 
 Proprietary Rights
 
