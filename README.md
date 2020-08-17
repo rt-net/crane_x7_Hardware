@@ -1,23 +1,24 @@
 # crane_x7_Hardware
-CRANEシリーズの7軸アームロボット　ハードウェア情報
+[CRANE-X7](https://rt-net.jp/products/crane-x7/) のハードウェア資料集です
 
-公式サイトはこちら[( https://www.rt-net.jp/products/crane-x7 )](https://www.rt-net.jp/products/crane-x7)です。
+![](https://rt-net.github.io/images/crane-x7-cad/CRANE-X7-v1.2.stp.png)
 
-`cad_data`ディレクトリにはCRANE-X7のCADデータ(step)が入っています。
-改造したい時には、こちらを使ってください。
+## フォルダ構成
 
-`3Dprint_data`ディレクトリにはAfinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
-フレーム破損時はこちらで印刷して交換します。
+- `3d_cad_data` : CRANE-X7のCADデータ(step)が入っています。
+- `3d_print_parts` : Afinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
+- `Drawing` : アルミプレートのPDF図面とDXF図面が入っています。
 
-`Drawing`ディレクトリにはアルミプレートのPDF図面とDXF図面が入っています。
-フレーム破損時はこちらで切削して交換します。
+## その他リンク集
 
-`others`ディレクトリにはCRANE-X7の部品表組み立てマニュアル等のリンク集が入っています。
+- [CRANE-X7 Getting Start Guide](https://docs.google.com/document/d/1ZVM8DkEtygEqVriiUKvn6mUj0swVW3mLRr4APcF0RwU/edit?usp=sharing)
+- [CRANE-X7 リンク情報リファレンス](https://docs.google.com/spreadsheets/d/1I268mnab4m-f6us0Au3AGd64-2iGkSwxaLrDplSjHY8/edit#gid=851604478)
+- [Afinia印刷設定リスト](https://docs.google.com/spreadsheets/d/1EGJFGyENNs8dTUQuPBuiwlS8NjcewwcOpi81-vP1bUY/edit?usp=sharing)
+- [組立マニュアル](https://sites.google.com/view/crane-x7-assembly-manual/)
+- [部品表](https://docs.google.com/spreadsheets/d/1aDFqHm1ITyZzfuScvNEFtuxv-zPM3NvJoxa1wEGHN7g/edit?usp=sharing)
+- [組立工具リスト](https://docs.google.com/spreadsheets/d/1vNaybK8c32hEwv1Moxhm_TXiwBZLILNTeV__plZuWW8/edit?usp=sharing)
 
-サンプルプログラムは[rt-net/crane_x7](https://github.com/rt-net/crane_x7)のリポジトリで管理されています。
-
-
-知的財産権について
+## 知的財産権について
 
 CRANE-X7は、アールティが開発した研究用アームロボットです。
 このリポジトリの情報に関するライセンスについては、LICENSEファイルをご参照ください。
@@ -28,24 +29,6 @@ CRANE-X7は、アールティが開発した研究用アームロボットです
 
 サーボモータのXM540やXM430に関するCADモデルの使用については、ROBOTIS社より使用許諾を受けています。 
 CRANE-X7に使用されているROBOTIS社の部品類にかかる著作権、商標権、その他の知的財産権は、ROBOTIS社に帰属します。
-
-
-# crane_x7_Hardware
-CRANE Series Arm Robots – Hardware Information.
-
-Click here ( https://www.rt-net.jp/products/crane-x7 ) to visit the official website.
-
- “cad_data” directory contains CAD data relevant to CRANE-X7. 
-You can make modifications using this data.
-
-“3Dprint_data” directory contains model data for 3D rendering using Afinia H800+ and details on print settings. You can replace a damaged frame by 3D-printing a new frame based on the data contained herein. 
-
-“Drawing” directory contains aluminium plate drawing data in PDF and DXF. You can replace a damaged plate by cutting it based on the data contained herein.
-
-“others” directory contains links to CRANE-X7’s components and parts assembly manuals.
-
-Sample programs are managed in this repository: rt-net/crane_x7.
-
 
 Proprietary Rights
 
